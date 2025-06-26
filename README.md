@@ -1,6 +1,6 @@
 Here is my another project about Dengue outbreak in Bangladesh (Dhaka Region). Let’s break this down into KPI monitoring, insights
 
-![Seasonal-Dengue-Analysis-Dashboard-Dhaka-Region](./Dengue Outbreak Analysis.png)
+![Seasonal-Dengue-Analysis-Dashboard-Dhaka-Region](./dengue-dashboard.png)
 
 🔍 KPI Monitoring Highlights :
 👨‍⚕️ Total Patients Tested: 1,000
